@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eric-lio1902e8.github.io/GTA-V-Mod-Menu-2026/sitemap.xml

